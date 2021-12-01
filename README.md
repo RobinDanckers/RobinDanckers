@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobinDanckers
 - 👀 I’m interested in testing this platform
 - 🌱 I’m currently learning about Crypto
-- 💞️ I’m looking to collaborate on AUDIT.one
 - 📫 How to reach me: By Pigeon
 
 <!---
